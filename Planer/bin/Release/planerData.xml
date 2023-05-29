@@ -1,0 +1,16 @@
+<planer>
+  <action>
+    <type>Подготовка пакета документов для регистрации студентов нового набора очной и очно-заочной форм обучения</type>
+    <deadline>01.09.2023 0:00:00</deadline>
+    <responsible>Инструкторы-методисты</responsible>
+    <send>АХО (архив)</send>
+    <completed>false</completed>
+  </action>
+  <action>
+    <dataGridViewTextBoxColumn1>Личные дела выпускников</dataGridViewTextBoxColumn1>
+    <dataGridViewTextBoxColumn2>01.03.2023 0:00:00</dataGridViewTextBoxColumn2>
+    <dataGridViewTextBoxColumn3>Инструкторы-методисты</dataGridViewTextBoxColumn3>
+    <dataGridViewTextBoxColumn4>АХО (архив)</dataGridViewTextBoxColumn4>
+    <dataGridViewCheckBoxColumn1>true</dataGridViewCheckBoxColumn1>
+  </action>
+</planer>

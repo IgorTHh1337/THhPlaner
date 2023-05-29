@@ -1,0 +1,9 @@
+D:\Planer\Planer\bin\Release\Planer.exe.config
+D:\Planer\Planer\bin\Release\Planer.exe
+D:\Planer\Planer\bin\Release\Planer.pdb
+D:\Planer\Planer\obj\Release\Planer.Planer.resources
+D:\Planer\Planer\obj\Release\Planer.Properties.Resources.resources
+D:\Planer\Planer\obj\Release\Planer.csproj.GenerateResource.cache
+D:\Planer\Planer\obj\Release\Planer.csproj.CoreCompileInputs.cache
+D:\Planer\Planer\obj\Release\Planer.exe
+D:\Planer\Planer\obj\Release\Planer.pdb
